@@ -1,0 +1,7 @@
+{
+	"port": "3306",
+	"ip": "127.0.0.1",
+	"dataBaseName": "ageroyale",
+	"user": "root",
+	"password": "1234"
+}
