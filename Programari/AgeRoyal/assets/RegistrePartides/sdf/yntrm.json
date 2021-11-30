@@ -1,0 +1,36 @@
+{
+  "moviments": [
+    {
+      "isMaquina": true,
+      "milisegons": 3950,
+      "tropa": 1,
+      "fila": 0,
+      "columna": 1,
+      "offensive": true
+    },
+    {
+      "isMaquina": true,
+      "milisegons": 7983,
+      "tropa": 0,
+      "fila": 2,
+      "columna": 5,
+      "offensive": true
+    },
+    {
+      "isMaquina": true,
+      "milisegons": 12015,
+      "tropa": 0,
+      "fila": 1,
+      "columna": 3,
+      "offensive": true
+    },
+    {
+      "isMaquina": true,
+      "milisegons": 20076,
+      "tropa": 1,
+      "fila": 1,
+      "columna": 4,
+      "offensive": true
+    }
+  ]
+}
